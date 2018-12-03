@@ -1,0 +1,7 @@
+{
+  "name": "Final_DataSt",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
